@@ -5,9 +5,9 @@ A Python script that calculates force and energy for different objects using bas
 python3 physics-analyzer.py
 
 ## Example Output
-Train: Force = 226800 N, Energy = 2.041e+21 J  
-Car: Force = 4500 N, Energy = 1.350e+20 J  
-Boulder: Force = 4900.0 N, Energy = 4.500e+19 J  
+Train: Force = 226800 N, Energy = 2041200000000000000000 J  
+Car: Force = 4500 N, Energy = 135000000000000000000 J  
+Boulder: Force = 4900.0 N, Energy = 45000000000000000000 J  
 
 ### Formulas Used
 
