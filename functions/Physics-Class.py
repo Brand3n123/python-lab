@@ -8,4 +8,4 @@ def get_energy(mass, c=3*10**8):
     return mass * (c**2)
 
 for object in objects:
-        print(f"{object[0]}: Force = {get_force(object[1], object[2])} N, Energy = {get_energy(object[1])}")
+        print(f"{object[0]}: Force = {get_force(object[1], object[2])} N, Energy = {get_energy(object[1])} J")
