@@ -18,7 +18,8 @@ Boulder: Force = 4900.0 N, Energy = 4.500e+19 J
 (mass × speed of light squared, where c = 3 × 10⁸ m/s)
 
 ### Concepts Practiced
-Functions and return values  
-Default parameters  
-Lists and iterationUnpacking list data  
+Integrating loops/functions/list manipulation  
+Return values  
+Default parameters     
+Unpacking list data  
 Printing with f-strings and scientific notation  
