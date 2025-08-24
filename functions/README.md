@@ -1,4 +1,4 @@
-## Physics Analyzer
+# Physics Analyzer
 A Python script that calculates force and energy for different objects using basic physics formulas.
 
 ## Run with Python 3
@@ -11,10 +11,10 @@ Boulder: Force = 4900.0 N, Energy = 4.500e+19 J
 
 ##Formulas Used
 
-# Force: F = m × a
+-Force: F = m × a
 (mass × acceleration)
 
-# Energy: E = m × c²
+-Energy: E = m × c²
 (mass × speed of light squared, where c = 3 × 10⁸ m/s)
 
 ##Concepts Practiced
