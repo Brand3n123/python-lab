@@ -1,13 +1,13 @@
-# Password Toolkit 🔐🛠️  
+# Password Toolkit
 
 A two-part Python project for generating and evaluating passwords.  
 
 This project demonstrates practical use of:  
-- **Modules** → separating reusable logic (`custom_password.py`) from the CLI (`password_tool.py`).  
-- **Functions** → building and reusing `generate_password()` and `check_strength()`.  
-- **Strings and Lists** → evaluating passwords with length and character diversity.  
-- **Conditionals & Loops** → handling user input and validation.  
-- **Input handling & error checking** → basic interactive CLI design.  
+- **Modules** - separating reusable logic (`custom_password.py`) from the CLI (`password_tool.py`).  
+- **Functions** - building and reusing `generate_password()` and `check_strength()`.  
+- **Strings and Lists** - evaluating passwords with length and character diversity.  
+- **Conditionals & Loops** - handling user input and validation.  
+- **Input handling & error checking** - basic interactive CLI design.  
 
 ---
 
