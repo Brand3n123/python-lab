@@ -15,8 +15,8 @@ This project demonstrates practical use of:
 
 - **`custom_password.py`**  
   Provides the core functionality:  
-  - `generate_password(length)` → creates a secure random password.  
-  - `check_strength(password)` → evaluates a password as **WEAK**, **MEDIUM**, or **STRONG**.  
+  - `generate_password(length)` - creates a secure random password.  
+  - `check_strength(password)` - evaluates a password as **WEAK**, **MEDIUM**, or **STRONG**.  
 
 - **`password_tool.py`**  
   A command-line interface (CLI) that lets users:  
