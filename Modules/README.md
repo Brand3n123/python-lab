@@ -2,13 +2,26 @@
 
 A two-part Python project for generating and evaluating passwords.  
 
-- **`custom_password.py`** provides the core functionality:
-  - `generate_password(length)` → creates a secure random password.
+This project demonstrates practical use of:  
+- **Modules** → separating reusable logic (`custom_password.py`) from the CLI (`password_tool.py`).  
+- **Functions** → building and reusing `generate_password()` and `check_strength()`.  
+- **Strings and Lists** → evaluating passwords with length and character diversity.  
+- **Conditionals & Loops** → handling user input and validation.  
+- **Input handling & error checking** → basic interactive CLI design.  
+
+---
+
+## Components  
+
+- **`custom_password.py`**  
+  Provides the core functionality:  
+  - `generate_password(length)` → creates a secure random password.  
   - `check_strength(password)` → evaluates a password as **WEAK**, **MEDIUM**, or **STRONG**.  
 
-- **`password_tool.py`** is a command-line interface (CLI) that lets users interactively:
-  - Generate a new password of a chosen length.
-  - Check the strength of an existing password.
+- **`password_tool.py`**  
+  A command-line interface (CLI) that lets users:  
+  - Generate a new password of a chosen length.  
+  - Check the strength of an existing password.  
 
 ---
 
